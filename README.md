@@ -11,8 +11,8 @@ João Paulo Orlando (Orientador).
 
  O que é TDPM?
  
-A TDPM (Transtorno Disfórico-Pré Menstrual) é uma condição é uma condição que é descrita como uma TPM mais intensa, podendo acarretar em crises (meltdowns) e em paralisações temporárias (shutdowns).
-Enquanto a TPM (Tensão Pré-Menstrual) geralmente inclui sintomas como irritabilidade, alterações de humor e fadiga, o TDPM é uma forma mais grave que causa distúrbios intensos de humor, muitas vezes impactando significativamente a vida diária.
+A TDPM (Transtorno Disfórico-Pré Menstrual) é uma condição é uma condição que é descrita como uma TPM (Tensão Pré-Menstrual) mais intensa, podendo acarretar em crises (meltdowns) e em paralisações temporárias (shutdowns).
+Enquanto a TPM geralmente inclui sintomas como irritabilidade, alterações de humor e fadiga, o TDPM é uma forma mais grave que causa distúrbios intensos de humor, muitas vezes impactando significativamente a vida diária.
 
  Embora a pesquisa sobre TPM e TDPM tenha frequentemente se concentrado em indivíduos neurotípicos, estudos recentes revelam que esses desafios menstruais têm um impacto singular em mulheres neurodivergentes, especialmente aquelas com autismo ou TDAH. Como o autismo e o TDAH envolvem sensibilidades sensoriais e dificuldades com a regulação emocional, os sintomas de TPM e TDPM podem ser muito mais intensos em mulheres neurodivergentes. 
  
