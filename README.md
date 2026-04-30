@@ -6,8 +6,8 @@ Envolvidos:
 
 Emily Outramario Miranda;
 Amanda Rafaela Fritzen da Silva;
-Viviane Martins de Souza;
-João Paulo Orlando.
+Viviane Martins de Souza (Coorientadora);
+João Paulo Orlando (Orientador).
 
  O que é TDPM?
  
