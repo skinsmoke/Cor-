@@ -1,1 +1,20 @@
-# Cor-
+ O que é o Coré?
+ 
+Coré é um aplicativo focado na fase lútea de pessoas menstruantes, focando nas pessoas neurodivergentes e neurotípicas que sofrem da TDPM.
+
+
+ O que é TDPM?
+ 
+A TDPM (Transtorno Disfórico-Pré Menstrual) é uma condição é uma condição que é descrita como uma TPM mais intensa, podendo acarretar em crises (meltdowns) e em paralisações temporárias (shutdowns).
+Enquanto a TPM (Tensão Pré-Menstrual) geralmente inclui sintomas como irritabilidade, alterações de humor e fadiga, o TDPM é uma forma mais grave que causa distúrbios intensos de humor, muitas vezes impactando significativamente a vida diária.
+
+ Embora a pesquisa sobre TPM e TDPM tenha frequentemente se concentrado em indivíduos neurotípicos, estudos recentes revelam que esses desafios menstruais têm um impacto singular em mulheres neurodivergentes, especialmente aquelas com autismo ou TDAH. Como o autismo e o TDAH envolvem sensibilidades sensoriais e dificuldades com a regulação emocional, os sintomas de TPM e TDPM podem ser muito mais intensos em mulheres neurodivergentes. 
+ 
+ Um estudo realizado em 2008 pelos pesquisadores Obaydi e Puri encontrou uma conexão significativa entre autismo e TPMD. De acordo com suas descobertas, 92% das mulheres autistas preenchiam os critérios para TPMD, em comparação com apenas 11% de suas pares não autistas. Essa diferença marcante sugere que a TPMD é mais prevalente entre mulheres autistas, ressaltando a necessidade de compreender seu impacto em indivíduos neurodivergentes.
+Em geral, mulheres com autismo relatam maior sensibilidade a estímulos físicos, emocionais e sensoriais durante a TPM. Esses sintomas costumam ser muito mais intensos do que os experimentados por mulheres neurotípicas, agravando os desafios relacionados à sensibilidade sensorial e à desregulação emocional. Para mulheres autistas, isso pode resultar em uma experiência de saúde mental mais desafiadora a cada mês.
+
+No que nosso aplicativo foca?
+
+Nosso aplicativo foca na regulação sensorial emental dessas pessoas, com espaços voltados para interação com outras pessoas que sofram da mesma condição, além de musicoterapias e áreas para registros de rotinas e cotidiano, além de áreas de informações para melhor autoconhecimento sobre esse ciclo e informações de como conseguir ajuda nesse ciclo, além de dicas para melhor suporte deste período.
+
+
