@@ -2,6 +2,12 @@
  
 Coré é um aplicativo focado na fase lútea de pessoas menstruantes, focando nas pessoas neurodivergentes e neurotípicas que sofrem da TDPM.
 
+Envolvidos:
+
+Emily Outramario Miranda;
+Amanda Rafaela Fritzen da Silva;
+Viviane Martins de Souza;
+João Paulo Orlando.
 
  O que é TDPM?
  
@@ -15,6 +21,7 @@ Em geral, mulheres com autismo relatam maior sensibilidade a estímulos físicos
 
 No que nosso aplicativo foca?
 
-Nosso aplicativo foca na regulação sensorial emental dessas pessoas, com espaços voltados para interação com outras pessoas que sofram da mesma condição, além de musicoterapias e áreas para registros de rotinas e cotidiano, além de áreas de informações para melhor autoconhecimento sobre esse ciclo e informações de como conseguir ajuda nesse ciclo, além de dicas para melhor suporte deste período.
+Nosso aplicativo foca na regulação sensorial e mental dessas pessoas durante o período da TDPM, com espaços voltados para interação com outras pessoas que sofram da mesma condição, além de musicoterapias e áreas para registros de rotinas e cotidiano, além de áreas de informações para melhor autoconhecimento sobre esse ciclo e informações de como conseguir ajuda nesse ciclo, além de dicas para melhor suporte deste período.
+
 
 
