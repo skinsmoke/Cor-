@@ -24,4 +24,4 @@ No que nosso aplicativo foca?
 Nosso aplicativo foca na regulação sensorial e mental dessas pessoas durante o período da TDPM, com espaços voltados para interação com outras pessoas que sofram da mesma condição, além de musicoterapias e áreas para registros de rotinas e cotidiano, além de áreas de informações para melhor autoconhecimento sobre esse ciclo e informações de como conseguir ajuda nesse ciclo, além de dicas para melhor suporte deste período.
 
 
-
+CHAID0OS0
